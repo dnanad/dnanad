@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+My name is Anand Deshpande and I'm a Data Science reasearcher. I'm from India, living in Germany and currently studying Mathematical Data Science at the University of Göttingen and working as student research assitant at Fraunhofer IIS. You can find me on on [![LinkedIn][3.2]][3].
+
 <!--
 **dnanad/dnanad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Anand Deshpande and I'm a Data Science reasearcher. I'm from India, living in Germany and currently studying Mathematical Data Science at the University of Göttingen and working as student research assitant at Fraunhofer IIS. You can find me on on [![LinkedIn][3.2]][3].
+
 
 Here are some ideas to get you started:
 
