@@ -16,7 +16,13 @@ I am highly motivated to learn new skills to expand my data science toolbox.
 <a href="https://github.com/dnanad/dnanad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnanad&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+<a href="https://github.com/dnanad/dnanad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnanad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <!--
 **dnanad/dnanad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
