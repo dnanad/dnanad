@@ -2,7 +2,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-deshpande-98965a17b/)
 
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-I am an inquisitive learner with high analytical skills and a strong background in Mathematics. I am currently pursuing masters in Mathematical Data Science at the University of Göttingen. 
+I am an inquisitive learner with high analytical skills and a strong background in Mathematics.
+I am currently pursuing masters in Mathematical Data Science at the University of Göttingen. 
 
 I am working as student research assitant at Fraunhofer IIS, Future Engeneering Group.
 My area of research is structural inference on Temporal Knowledge Graph.
