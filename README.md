@@ -14,7 +14,7 @@ I am highly motivated to learn new skills to expand my data science toolbox.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
