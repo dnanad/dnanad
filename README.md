@@ -7,8 +7,8 @@ Hi 👋 My name is Anand Deshpande
 I am an inquisitive learner with high analytical skills and a strong background in Mathematics. I have recently completed masters in Mathematical Data Science at the University of Göttingen. I was working as student research assitant at Fraunhofer IIS with the Future Engeneering Group. My area of research was structural inference on Temporal Knowledge Graph. I am highly motivated to learn new skills to expand my data science toolbox.
 
 *   🌍  I'm based in Heidelberg, Germany
-*   ✉️  You can contact me at [ananddeshpande13@gmail.com](mailto:ananddeshpande13@gmail.com)### Skills<p align="left">
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+*   ✉️  You can contact me at [ananddeshpande13@gmail.com](mailto:ananddeshpande13@gmail.com)
+
                                 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
