@@ -1,4 +1,5 @@
-![License](https://img.shields.io/github/license/dnanad/dnanad?style=flat)
+![License](https://img.shields.io/github/license/dnanad/dnanad?style=flat) 
+![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 ![ViewCount](https://bit.ly/dnanad-visits)
                     
 Hi 👋 My name is Anand Deshpande
