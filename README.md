@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/github/license/dnanad/dnanad?style=flat)
-![ViewCount](http://bit.ly/dnanad-Github-Visits)
+![ViewCount](https://bit.ly/dnanad-visits)
                     
 Hi 👋 My name is Anand Deshpande
 ================================
