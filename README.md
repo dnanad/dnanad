@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/dnanad/dnanad?style=flat) 
+![GitHub](https://img.shields.io/github/license/dnanad/dnanad?style=plastic)
 ![GitHub](https://img.shields.io/github/license/dnanad/dnanad)
 ![ViewCount](https://bit.ly/dnanad-visits)
                     
