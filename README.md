@@ -19,18 +19,35 @@ I am an inquisitive learner with high analytical skills and a strong background 
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/html.svg" alt="html"></a>
+       <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/css.svg" alt="css"></a>
+       <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/javascript.svg" alt="javascript"></a>
+<br />
+
 </p>
 
+<div align="center">
+	
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnanad&layout=compact&theme=dark&bg_color=0A0A0A" alt="Anand Deshpande's Top Languages"/>
+<br />
 
-## &#x1f4c8; GitHub Stats
+<div align="center">
 
-<a href="https://github.com/dnanad/dnanad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnanad&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+	
+
+<!-- ## &#x1f4c8; GitHub Stats -->
+<!-- <a href="https://github.com/dnanad/dnanad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnanad&hide=java,html,tex&&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </a>
-<a href="https://github.com/dnanad/dnanad">
+</br> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnanad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anand's Github Stats">
+
+<!-- <a href="https://github.com/dnanad/dnanad">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnanad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
+ -->
 
 
 
