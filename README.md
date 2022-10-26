@@ -19,6 +19,11 @@ I am an inquisitive learner with high analytical skills and a strong background 
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/html.svg" alt="html"></a>
+       <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/css.svg" alt="css"></a>
+       <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/javascript.svg" alt="javascript"></a>
+<br />
+
 </p>
 
 <div align="center">
@@ -30,21 +35,13 @@ I am an inquisitive learner with high analytical skills and a strong background 
 
 <div align="center">
 
-<br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg" alt="tailwind"></a>
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
-<br />
 	
 
 <!-- ## &#x1f4c8; GitHub Stats -->
-<a href="https://github.com/dnanad/dnanad">
+<!-- <a href="https://github.com/dnanad/dnanad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnanad&hide=java,html,tex&&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </a>
-</br>
+</br> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnanad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anand's Github Stats">
 
 <!-- <a href="https://github.com/dnanad/dnanad">
