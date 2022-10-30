@@ -15,6 +15,7 @@ I am an inquisitive learner with high analytical skills and a strong background 
 
 ---
 <p align="center">
+	
 ### My skills include
 
 <p align="center">
