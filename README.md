@@ -25,6 +25,7 @@ I am an inquisitive learner with high analytical skills and a strong background 
 	<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/html.svg" alt="html"></a>
        <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/css.svg" alt="css"></a>
        <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/javascript.svg" alt="javascript"></a>
+	<img title="latex" alt="latex" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/latex.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 <br />
 
