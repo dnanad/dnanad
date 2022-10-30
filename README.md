@@ -13,7 +13,8 @@ I am an inquisitive learner with high analytical skills and a strong background 
 *   🌍  I'm based in Heidelberg, Germany
 *   ✉️  You can contact me at [ananddeshpande13@gmail.com](mailto:ananddeshpande13@gmail.com)
 
-                                
+---
+
 ### My skills include
 
 <p align="center">
