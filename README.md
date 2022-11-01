@@ -65,7 +65,7 @@ I am an inquisitive learner with high analytical skills and a strong background 
 <p align="center">
     <a href="https://github.com/dnanad"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnanad&theme=tokyonight&hide_border=true"  width="520" alt="Amardeep Kesharwani"/></a>
 	
-<a href="https://github.com/dnanad"><img alt="Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dnanad&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/dnanad"><img alt="Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dnanad&custom_title=Anand's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
 
