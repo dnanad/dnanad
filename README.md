@@ -56,7 +56,8 @@ I am an inquisitive learner with high analytical skills and a strong background 
  -->
 	
 <a href="https://github.com/dnanad">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnanad&theme=blueberry" width="380"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnanad&theme=blueberry" /> 
+<!-- 	width="380"/> -->
 </a>
 </p>
 
