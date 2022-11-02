@@ -20,7 +20,7 @@ I am an inquisitive learner with high analytical skills and a strong background 
 
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="R" alt="linux" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
+	<img title="R" alt="linux" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/r-lang.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/html.svg" alt="html"></a>
        <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/css.svg" alt="css"></a>
@@ -28,8 +28,8 @@ I am an inquisitive learner with high analytical skills and a strong background 
 <!-- 	<img title="latex" alt="latex" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/latex.png" width="70" height="40" style="vertical-align:down; margin:4px"/> -->
 <img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="40" height="40" style="vertical-align:down; margin:4px>
 	
-<!-- 	<img title="Git" alt="Git" src="https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg" width="70" height="40" style="vertical-align:down; margin:4px"/> -->
-<br />
+
+<br/>
 
 </p>
 
