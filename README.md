@@ -26,7 +26,7 @@ I am an inquisitive learner with high analytical skills and a strong background 
 	
 ### My skills include
 
-<p align="center">
+<p align="left">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/r-lang.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
@@ -55,7 +55,7 @@ My Github Stats
 <br />																		
 																		
 
-<div align="center">
+<div align="left">
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 <!-- <a href="https://github.com/dnanad/dnanad">
@@ -69,8 +69,8 @@ My Github Stats
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnanad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
  -->
-<a href="https://github.com/dnanad">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnanad&theme=blueberry" /> 
+<!--<a href="https://github.com/dnanad">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnanad&theme=blueberry" /> -->
 <!-- 	width="380"/> -->
 </a>
 </p>
