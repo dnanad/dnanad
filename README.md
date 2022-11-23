@@ -13,6 +13,7 @@
 <a href="https://github.com/dnanad">
     <img src="https://github-stats-alpha.vercel.app/api?username=dnanad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+	
 I am an inquisitive learner with high analytical skills and a strong background in Mathematics. I have recently completed masters in Mathematical Data Science from the University of Göttingen. My area of research was structural inference on Temporal Knowledge Graph. I am highly motivated to learn new skills to expand my data science toolbox.
 <!-- I was working as student research assitant at Fraunhofer IIS with the Future Engeneering Group. -->
 
