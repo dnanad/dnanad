@@ -42,7 +42,6 @@ I am an inquisitive learner with high analytical skills and a strong background 
 </p>
 
 <div align="center">
-	
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnanad&layout=compact&theme=dark&bg_color=0A0A0A" alt="Anand Deshpande's Top Languages"/>
@@ -57,8 +56,6 @@ My Github Stats
 																		
 
 <div align="center">
-
-	
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 <!-- <a href="https://github.com/dnanad/dnanad">
@@ -87,7 +84,7 @@ My Github Stats
 
 <!-- 
 <details>
-<summary> -->
+<summary> 
 📈 Stats</summary>
 <br>
 My Github Stats
@@ -96,7 +93,7 @@ My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dnanad&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dnanad&theme=dracula)
-
+-->
 
 <br>
 Currently Coding & Listening to:
