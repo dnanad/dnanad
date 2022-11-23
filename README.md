@@ -44,7 +44,7 @@ I am an inquisitive learner with high analytical skills and a strong background 
 <div align="center">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnanad&layout=compact&theme=dark&bg_color=0A0A0A" alt="Anand Deshpande's Top Languages"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnanad&layout=compact&theme=dark&bg_color=0A0A0A" alt="Anand Deshpande's Top Languages"/>-->
 
 My Github Stats
 
