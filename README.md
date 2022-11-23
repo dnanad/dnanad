@@ -22,7 +22,7 @@ I am an inquisitive learner with high analytical skills and a strong background 
 <!-- *   <a href="mailto:ananddeshpande13@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> -->
 
 ---
-<p align="center">
+<p align="left">
 	
 ### My skills include
 
