@@ -1,9 +1,9 @@
 ![GitHub](https://img.shields.io/github/license/dnanad/dnanad)
 ![ViewCount](https://bit.ly/dnanad-visits)
                     
-<p align="center">
+<p align="left">
 <a href="https://github.com/dnanad">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Anand+Deshpande;Masters+in+Mathematics;AI+%7C+Data+Scientist+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Anand+Deshpande;Masters+in+Mathematics;AI+%7C+Data+Scientist+%7C" alt="Typing SVG" />
 <!-- +%7C+PhD+Student+%7C+Software+Engineer -->
 </a>
 <br/>
