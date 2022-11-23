@@ -81,7 +81,7 @@ My Github Stats
 <a href="https://github.com/dnanad"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnanad&theme=tokyonight&hide_border=true"  width="520" alt="Anand Deshpande"/></a>-->
 	
 <a href="https://github.com/dnanad"><img alt="Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dnanad&custom_title=Anand's%20Contribution%20Graph&theme=react-dark" /></a>
-
+<details>
 <!-- 
 <details>
 <summary> 
@@ -98,8 +98,7 @@ My Github Stats
 <br>
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31oolpgkzy2xthip4dac6gcfm42m)
 </details>
 
 
