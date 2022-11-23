@@ -77,16 +77,17 @@ I am an inquisitive learner with high analytical skills and a strong background 
 	
 <a href="https://github.com/dnanad"><img alt="Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dnanad&custom_title=Anand's%20Contribution%20Graph&theme=react-dark" /></a>
 
-
+<!-- 
 <details>
-<summary>📈 Stats</summary>
+<summary> -->
+📈 Stats</summary>
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnanad&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dnanad&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dnanad&theme=dracula)
 
 
 <br>
