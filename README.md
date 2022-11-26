@@ -99,4 +99,4 @@ My Github Stats
 <br>
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oolpgkzy2xthip4dac6gcfm42m&cover_image=true&theme=Novatorem+theme&show_offline=false&background_color=121212)](https://github.com/dnanad/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oolpgkzy2xthip4dac6gcfm42m&cover_image=true&theme=Novatorem&show_offline=false&background_color=121212)](https://github.com/dnanad/spotify-github-profile)
