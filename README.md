@@ -96,19 +96,7 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dnanad&theme=dracula)
 -->
 
-<!--<br>
+<br>
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=01opnkct5kkff05te500j5edw&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=01opnkct5kkff05te500j5edw&redirect=true)
-
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/dnanad/dnanad/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=01opnkct5kkff05te500j5edw&cover_image=true&theme=Novatorem+theme&show_offline=true&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=01opnkct5kkff05te500j5edw&redirect=true)
-</details>-->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oolpgkzy2xthip4dac6gcfm42m&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
