@@ -14,10 +14,15 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=dnanad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 	
-I am an inquisitive learner with high analytical skills and a strong background in Mathematics. I have recently completed masters in Mathematical Data Science from the University of Göttingen. My area of research was structural inference on Temporal Knowledge Graph. I am highly motivated to learn new skills to expand my data science toolbox.
+An inquisitive learner with high analytical skills and a strong background in Mathematics. I am passionate about deriving key insights from any kind of data. I am quick to pick up whatever tools I need to solve the problem at hand. 
+
+I have 2+ years of experience is using ML/DL techniques to provide innovative solutions.
+My previous experience of research in the field of mathematics and data science has helped me in conceptualizing and prototyping a scalable data science project. 
+
+I am very well familiar with Python (pandas, numpy, scikit-learn, TensorFlow, PyTorch), R, SQL and I am highly motivated to learn new skills to expand my data science toolbox.
 <!-- I was working as student research assitant at Fraunhofer IIS with the Future Engeneering Group. -->
 
-*   🌍  I'm based in Heidelberg, Germany
+*   🌍  I'm currently based in Heidelberg, Germany
 *   ✉️  You can contact me at [ananddeshpande13@gmail.com](mailto:ananddeshpande13@gmail.com) 
 <!-- *   <a href="mailto:ananddeshpande13@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> -->
 
