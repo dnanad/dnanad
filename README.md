@@ -3,7 +3,7 @@
                     
 <p align="left">
 <a href="https://github.com/dnanad">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=95&lines=Anand+Deshpande;Data+Scientist;Masters+in+Mathematics;AI+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=95&lines=Anand+Deshpande;Data+Scientist;Masters+in+Mathematics;AI+%7CMachine+Learning" alt="Typing SVG" />
 </a>
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> -->
@@ -14,12 +14,13 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=dnanad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 	
-An inquisitive learner with high analytical skills and a strong background in Mathematics. I am passionate about deriving key insights from any kind of data. I am quick to pick up whatever tools I need to solve the problem at hand. 
+I am a Data Scientist with a strong background in Mathematics. I am passionate about deriving key insights from any kind of data. I am quick to pick up whatever tools I need to solve the problem at hand. 
 
-I have 2+ years of experience is using ML/DL techniques to provide innovative solutions.
+I have 3+ years of experience is using ML/DL to provide innovative solutions.
 My previous experience of research in the field of mathematics and data science has helped me in conceptualizing and prototyping a scalable data science project. 
 
 I am very well familiar with Python (pandas, numpy, scikit-learn, TensorFlow, PyTorch), R, SQL and I am highly motivated to learn new skills to expand my data science toolbox.
+
 <!-- I was working as student research assitant at Fraunhofer IIS with the Future Engeneering Group. -->
 
 *   🌍  I'm currently based in Heidelberg, Germany
