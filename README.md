@@ -70,9 +70,6 @@ My Github Stats
 </p>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnanad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anand's Github Stats"> -->
 
-<a href="https://github.com/dnanad/dnanad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnanad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 <a href="https://github.com/dnanad">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnanad&theme=blueberry" /> 
 </a>
