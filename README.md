@@ -88,7 +88,7 @@ My Github Stats
 	
 <a href="https://github.com/dnanad"><img alt="Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dnanad&custom_title=Anand's%20Contribution%20Graph&theme=react-dark" /></a>
 
-<!-- 
+ 
 <details>
 <summary> 
 📈 Stats</summary>
@@ -99,9 +99,10 @@ My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dnanad&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dnanad&theme=dracula)
--->
 
+<!--
 <br>
 Currently Coding & Listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oolpgkzy2xthip4dac6gcfm42m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://github.com/dnanad/spotify-github-profile)
+-->
