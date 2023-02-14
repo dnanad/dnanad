@@ -83,11 +83,7 @@ My Github Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<a href="https://github.com/dnanad"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnanad&theme=tokyonight&hide_border=true"  width="520" alt="Anand Deshpande"/></a>
-	
-<a href="https://github.com/dnanad"><img alt="Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dnanad&custom_title=Anand's%20Contribution%20Graph&theme=react-dark" /></a>
-
- 
+<a href="https://github.com/dnanad"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnanad&theme=tokyonight&hide_border=true"  width="520" alt="Anand Deshpande"/></a> 
 
 <!--
 <br>
