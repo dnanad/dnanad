@@ -52,14 +52,7 @@ I am very well familiar with Python (pandas, numpy, scikit-learn, TensorFlow, Py
 <br />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnanad&layout=compact&theme=dark&bg_color=0A0A0A" alt="Anand Deshpande's Top Languages"/>-->
 
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnanad&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dnanad&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dnanad&theme=dracula)					
-<br />																		
-																		
+														
 
 <div align="left">
 
