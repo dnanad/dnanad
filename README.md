@@ -21,11 +21,9 @@ My previous experience of research in the field of mathematics and data science 
 
 I am very well familiar with Python (pandas, numpy, scikit-learn, TensorFlow, PyTorch), R, SQL and I am highly motivated to learn new skills to expand my data science toolbox.
 
-<!-- I was working as student research assitant at Fraunhofer IIS with the Future Engeneering Group. -->
 
 *   🌍  I'm currently based in Heidelberg, Germany
 *   ✉️  You can contact me at [ananddeshpande13@gmail.com](mailto:ananddeshpande13@gmail.com) 
-<!-- *   <a href="mailto:ananddeshpande13@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> -->
 
 ---
 <p align="left">
@@ -46,6 +44,14 @@ I am very well familiar with Python (pandas, numpy, scikit-learn, TensorFlow, Py
 <br/>
 
 </p>
+
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnanad&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dnanad&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dnanad&theme=dracula)
+
 
 <div align="center">
 <br />
@@ -82,16 +88,6 @@ I am very well familiar with Python (pandas, numpy, scikit-learn, TensorFlow, Py
 <a href="https://github.com/dnanad"><img alt="Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dnanad&custom_title=Anand's%20Contribution%20Graph&theme=react-dark" /></a>
 
  
-<details>
-<summary> 
-📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnanad&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dnanad&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dnanad&theme=dracula)
 
 <!--
 <br>
