@@ -13,11 +13,25 @@
 <a href="https://github.com/dnanad">
     <img src="https://github-stats-alpha.vercel.app/api?username=dnanad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-	
-I am a Data Scientist with a strong background in Mathematics. I am passionate about deriving key insights from any kind of data. I am quick to pick up whatever tools I need to solve the problem at hand. 
+
+I'm am a Data Scientist. Originally hailing from Pune, India, I come from a
+mathematics background, which has fueled my passion for diving into complex data and extracting meaningful
+insights. I am quick to pick up whatever tools I need to solve the problem at hand.
 
 I have 3+ years of experience is using ML/DL to provide innovative solutions.
 My previous experience of research in the field of mathematics and data science has helped me in conceptualizing and prototyping a scalable data science project. 
+
+I work at the Department für Frauengesundheit, Universitäts-Frauenklinik, Tübingen as a Data Scientist. I am amzed to see advanced data techniquesthe from machine
+learning can contribute to advancements in understanding complex biological systems. I'm am very excited to apply my skills in data science to
+contribute to meaningful research projects in this field.
+
+I'm living in Heidelberg with my awesome wife. One thing that really lights me up is getting to know
+different cultures and connecting with people from all walks of life. It's fascinating to explore the unique stories and
+traditions that make each culture special.
+
+During my downtime, you'll often find me jamming on percussion instruments inspired by the vibrant Marathi folk
+culture. It's a great way to unwind and tap into my creative side.
+ 
 
 I am very well familiar with Python (pandas, numpy, scikit-learn, TensorFlow, PyTorch), R, SQL and I am highly motivated to learn new skills to expand my data science toolbox.
 
