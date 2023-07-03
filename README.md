@@ -14,16 +14,14 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=dnanad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-I'm am a Data Scientist. Originally hailing from Pune, India, I come from a
-mathematics background, which has fueled my passion for diving into complex data and extracting meaningful
-insights. I am quick to pick up whatever tools I need to solve the problem at hand.
+I'm am a Data Scientist. Originally hailing from Pune, India, I come from a mathematics background, which has fueled my passion for diving into complex data and extracting meaningful insights.
+I am quick to pick up whatever tools I need to solve the problem at hand.
 
 I have 3+ years of experience is using ML/DL to provide innovative solutions.
 My previous experience of research in the field of mathematics and data science has helped me in conceptualizing and prototyping a scalable data science project. 
 
-I work at the Department für Frauengesundheit, Universitäts-Frauenklinik, Tübingen as a Data Scientist. I am amzed to see advanced data techniquesthe from machine
-learning can contribute to advancements in understanding complex biological systems. I'm am very excited to apply my skills in data science to
-contribute to meaningful research projects in this field.
+As a Data Scientist at the Department für Frauengesundheit, Universitäts-Frauenklinik in Tübingen, I am deeply fascinated by the transformative impact that advanced machine learning techniques, have on the advancement of our understanding of intricate biological systems.
+The prospect of leveraging my expertise in data science to actively contribute to significant research projects within this field fills me with great enthusiasm and a strong sense of purpose.
 
 I'm living in Heidelberg with my awesome wife. One thing that really lights me up is getting to know
 different cultures and connecting with people from all walks of life. It's fascinating to explore the unique stories and
