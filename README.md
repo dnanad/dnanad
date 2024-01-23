@@ -14,25 +14,8 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=dnanad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-I'm am a Data Scientist. Originally hailing from Pune, India, I come from a mathematics background, which has fueled my passion for diving into complex data and extracting meaningful insights.
-I am quick to pick up whatever tools I need to solve the problem at hand.
-
-I have 3+ years of experience is using ML/DL to provide innovative solutions.
-My previous experience of research in the field of mathematics and data science has helped me in conceptualizing and prototyping a scalable data science project. 
-
-As a Data Scientist at the Department für Frauengesundheit, Universitäts-Frauenklinik in Tübingen, I am deeply fascinated by the transformative impact that advanced machine learning techniques, have on the advancement of our understanding of intricate biological systems.
-The prospect of leveraging my expertise in data science to actively contribute to significant research projects within this field fills me with great enthusiasm and a strong sense of purpose.
-
-I'm living in Heidelberg with my awesome wife. One thing that really lights me up is getting to know
-different cultures and connecting with people from all walks of life. It's fascinating to explore the unique stories and
-traditions that make each culture special.
-
-During my downtime, you'll often find me jamming on percussion instruments inspired by the vibrant Marathi folk
-culture. It's a great way to unwind and tap into my creative side.
- 
-
-I am very well familiar with Python (pandas, numpy, scikit-learn, TensorFlow, PyTorch), R, SQL and I am highly motivated to learn new skills to expand my data science toolbox.
-
+- I'm a Data Scientist working at the Department für Frauengesundheit, Universitäts-Frauenklinik in Tübingen
+- I am currently learning AWS essentials and MLOps
 
 *   🌍  I'm currently based in Heidelberg, Germany
 *   ✉️  You can contact me at [ananddeshpande13@gmail.com](mailto:ananddeshpande13@gmail.com) 
@@ -51,8 +34,14 @@ I am very well familiar with Python (pandas, numpy, scikit-learn, TensorFlow, Py
        <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img title="JavaScript" alt="JavaScript" margin="10px" height="40" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/javascript.svg" alt="javascript"></a>
 <!-- 	<img title="latex" alt="latex" src="https://raw.githubusercontent.com/dnanad/dnanad/master/assets/latex.png" width="70" height="40" style="vertical-align:down; margin:4px"/> -->
 <img title="Git" alt="Git" src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="40" height="40" style="vertical-align:down; margin:4px>
-	
 
+<img width="50" height="40" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" />
+<img width="50" height="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" />
+
+<img width="50" height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VSCode" title="VSCode" />
+
+<img width="50" height="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostGres" title="PostGres" />
+<img width="50" height="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
 <br/>
 
 </p>
