@@ -15,7 +15,7 @@
 </a>
 
 - 🧑‍💻  I'm a Data Scientist working at the Department für Frauengesundheit, Universitäts-Frauenklinik in Tübingen
-- 📚  I am currently learning AWS essentials and MLOps
+- 📚  I am currently learning AWS essentials and FastAPI
 - 🌍  I'm currently based in Heidelberg, Germany
 - ✉️  You can contact me at [ananddeshpande13@gmail.com](mailto:ananddeshpande13@gmail.com) 
 
