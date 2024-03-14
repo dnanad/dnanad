@@ -3,9 +3,9 @@
                     
 <p align="left">
 <a href="https://github.com/dnanad">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=95&lines=Anand+Deshpande;Data+Scientist;Masters+in+Mathematics;AI+%7CMachine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=95&lines=Anand+Deshpande;Data+Scientist" alt="Typing SVG" />
 </a>
-
+<!-- ;Masters+in+Mathematics;AI+%7CMachine+Learning -->
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandbd/)
