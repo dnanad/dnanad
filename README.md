@@ -14,8 +14,8 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=dnanad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-- 🧑‍💻  I'm a Data Scientist working at the Department für Frauengesundheit, Universitäts-Frauenklinik in Tübingen
-- 📚  I am currently learning AWS essentials and FastAPI
+<!-- - 🧑‍💻  I'm a Data Scientist working at the Department für Frauengesundheit, Universitäts-Frauenklinik in Tübingen 
+- 📚  I am currently learning AWS essentials and FastAPI-->
 - 🌍  I'm currently based in Heidelberg, Germany
 - ✉️  You can contact me at [ananddeshpande13@gmail.com](mailto:ananddeshpande13@gmail.com) 
 
