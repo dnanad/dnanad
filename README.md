@@ -3,7 +3,7 @@
                     
 <p align="left">
 <a href="https://github.com/dnanad">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=95&lines=Anand+Deshpande;Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=95&lines=Anand+Deshpande;Machine+Learning+Engineer" alt="Typing SVG" />
 </a>
 <!-- ;Masters+in+Mathematics;AI+%7CMachine+Learning -->
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> -->
